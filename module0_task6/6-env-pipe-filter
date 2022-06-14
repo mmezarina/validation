@@ -1,2 +1,5 @@
 #!/bin/bash
-printenv TERM
+export TERM=xterm-256color
+export TERM_PROGRAM=devops
+exec bash
+
