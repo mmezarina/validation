@@ -1,4 +1,5 @@
 #!/bin/bash
-export TERM="xterm"
-export TERM_PROGRAM="devops"
+export TERM=xterm-256color
+export TERM_PROGRAM_VERSION=440
+export TERM_SESSION_ID=13E875F2-7C1F-4AB1-8B49-47F229B78CCA
 exec bash
