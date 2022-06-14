@@ -1,5 +1,4 @@
 #!/bin/bash
 pwd 
-cd /home/vagrant/
-pwd
+source 1-bring_me_home
 exec bash
