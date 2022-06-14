@@ -1,4 +1,4 @@
 #!/bin/bash
-touch hola
-chmod 754 hola
+touch hello
+chmod 754 hello
 exec bash
