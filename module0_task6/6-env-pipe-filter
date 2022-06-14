@@ -1,4 +1,4 @@
 #!/bin/bash
-export TERM=xterm-256color
-export TERM_PROGRAM=devops
+export TERM="xterm"
+export TERM_PROGRAM="devops"
 exec bash
