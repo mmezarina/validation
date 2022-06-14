@@ -1,0 +1,4 @@
+#!/bin/bash
+touch hola
+chmod 754 hola
+exec bash
