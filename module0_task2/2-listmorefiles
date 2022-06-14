@@ -1,6 +1,4 @@
 #!/bin/bash
 pwd
-cd /home/vagrant/devops
-pwd
 ls -lah
 exec bash 
