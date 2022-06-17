@@ -1,5 +1,5 @@
 #!/bin/bash
 pwd
-cd /home/devops
+sudo cd /root
 pwd
 exec bash
