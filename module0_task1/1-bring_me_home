@@ -1,3 +1,5 @@
 #!/bin/bash
-cd /home/vagrant
+pwd
+cd /home/devops
+pwd
 exec bash
